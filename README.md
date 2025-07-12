@@ -7,25 +7,23 @@
 
 A fun and interactive web application that provides a humorous "roast" of your GPA. Just enter your GPA, and our AI-powered roaster will give you a witty comeback!
 
-## ✨ Features
+## Features
 
 -   **AI-Powered Roasts**: Utilizes Google's Generative AI to create unique and funny roasts for any GPA.
 -   **Simple Interface**: Easy-to-use and intuitive design.
 -   **Responsive Design**: Works on all devices, from desktops to mobile phones.
 
-## 🚀 Live Site
+## Live Site
 
 You can visit the live version of the site here: **[https://roast-my-gpa.vercel.app/](https://roast-my-gpa.vercel.app/)** 
 
-*(Note: Please replace this with your actual deployment link if it's different.)*
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend**: React, Vite, CSS
 -   **Backend**: Node.js, Express.js
 -   **AI**: Google Generative AI API
 
-## ⚙️ Getting Started
+## Getting Started
 
 To run this project locally, follow these steps:
 
